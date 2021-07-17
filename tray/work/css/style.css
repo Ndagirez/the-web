@@ -1,0 +1,38 @@
+h1 {
+    font-size: 80px;
+    font-style: italic;
+    text-decoration-color: brown;
+}
+h2 {
+    font-size: medium;
+    background-color: aqua;
+    
+
+}
+body  {
+    background-color: beige;
+    text-align: center;
+    text-decoration: brown;padding-left: 2cm;
+
+}
+
+.paragraph{
+    font-size: smaller;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cyan;
+}
+
+.test {
+    font-family: fantasy;
+    font-style: italic;
+    background-color: aquamarine;
+}
+#mes {
+    font-size: medium;
+    background-color: coral;
+}
+.ring {
+    table-layout: fixed;
+    text-align:center;
+    -o-table-baseline: initial;
+}
