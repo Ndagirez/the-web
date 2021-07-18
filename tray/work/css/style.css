@@ -10,7 +10,7 @@ h2 {
 
 }
 body  {
-    background-color: beige;
+    background-color:white;
     text-align: center;
     text-decoration: brown;padding-left: 2cm;
 
@@ -35,4 +35,26 @@ body  {
     table-layout: fixed;
     text-align:center;
     -o-table-baseline: initial;
+}
+#div1 {
+    width: 480px;
+    border:5px solid blue;
+}
+#div2{
+    width: 410px;
+    height: 60px;
+    border:5px solid black;
+
+}
+#div3{
+    margin:0;
+    border:5px solid pink;
+    max-width: 100%;
+    height: 60px;
+
+}
+.pet {
+    
+    text-decoration: blue;
+text-decoration-line: line-through;
 }
